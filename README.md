@@ -6,10 +6,9 @@
 <meta name="generator" content="Jekyll v3.9.2" />
 <meta property="og:title" content="IJ.START.CANON" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Just visit canon official website - and enter canon printer model number to download, install and setup canon printer drivers." />
 <meta property="og:description" content="Just visit canon official website - and enter canon printer model number to download, install and setup canon printer drivers." />
-<link rel="canonical" href="https://ij-start.github.io/" />
-<meta property="og:url" content="https://ij-start.github.io/" />
+<link rel="canonical" href="https://ij-startcanonn.github.io/" />
+<meta property="og:url" content="https://ij-startcanonn.github.io/" />
 <meta property="og:site_name" content="Setup IJ Start Canon - Canon IJ Printer" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
