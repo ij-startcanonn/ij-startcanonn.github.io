@@ -1,97 +1,32 @@
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="UTF-8" />
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>ij.start.canon - download canon setup in june 2022</title>
-<meta name="generator" content="Jekyll v3.9.2" />
-<meta property="og:title" content="ij.start.canon" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://ij-startcanonn.github.io/" />
-<meta property="og:url" content="https://ij-startcanonn.github.io/" />
-<meta property="og:site_name" content="Setup IJ Start Canon - Canon IJ Printer" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="IJ.START.CANON" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Just visit canon official website - and enter canon printer model number to download, install and setup canon printer drivers.","headline":"IJ.START.CANON","name":"Setup IJ Start Canon - Canon IJ Printer","url":"https://ij-start.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;display=swap" as="style" type="text/css" crossorigin="" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#157878" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <link rel="stylesheet" href="/assets/css/style.css?v=a32fe24b23a6c4e1df4a7bbf9ca3857c0ffb891f" />
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
+<title>ij start canon | Download Canon Printer In June 2022</title>
+</head>
 <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">IJ.START.CANON</h1>
-      <h2 class="project-tagline">Just visit canon official website - and enter canon printer model number to download, install and setup canon printer drivers.</h2>
-      
-      
-    </header>
+<h1>ij start canon</h1>
+<p>The Canon IJ Printer setup is an all-in-one printer that comes with powerful features and delivers incredible performance. Canon IJ printer is ideal for home as well as office use. Canon IJ delivers high-quality printing solutions to users with great speed and performance. Before you start using the Cannon printing services, you need to complete the printer setup and download the drivers by visiting ij.start.canon printer official website.
 
-    <main id="content" class="main-content" role="main">
-      <h1 id="ijstartcanon">IJ.START.CANON</h1>
+Learn the simple instructions for the Cannon IJ printer setup. And follow the simple steps to complete printer setup so you can start printing documents effectively.
 
-<p><a href="http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com"><img src="/Get-Started-Now-Button3.png" alt="ij.start.canon" /></a></p>
+How to Download Cannon IJ Printer Software from ij.start.canon
+It’s the preferred option cannon team recommends to use as you will receive an updated version;
+Visit ij.start.canon.
+Click on “Set Up”.
+Choose the first letters of your model type and choose the product name.
+You’re on the Cannon printer drivers downloads page.
+Click Download and wait to complethe the process.
+Canon IJ printer Guide for Driver Installation
+Follow the below guide and set up your Cannon printer
 
-<p>The <strong>Canon IJ Printer setup</strong> is an all-in-one printer that comes with powerful features and delivers incredible performance. Canon IJ printer is ideal for home as well as office use. <strong>Canon IJ delivers</strong> high-quality printing solutions to users with great speed and performance. Before you start using the Cannon printing services, you need to complete the printer setup and download the drivers by visiting <a href="https://ij-start.github.io/">ij.start.canon</a> printer official website.</p>
+Download Drivers – Visitij.start.canon and download the Cannon driver.
+Install and Select connection type – Double-tap on file and select wireless or USB connection.
+Turn ON the Cannon printer – Press the button to turn on the printer.
+Connect WiFi – On a wireless connection, press and hold the WiFI alarm to connect.
+Flashing blue and green lamps – If you find this situation, it means the printer is connected to WiFi.
+Agree on the terms to install – Read and agree to the license terms of Cannon set up in order to install.
+Finish the Cannon Printer Setup – Tap on Complete to finish the final step..</p>
 
-<p><em>Learn the simple instructions for the Cannon IJ printer setup. And follow the simple steps to complete printer setup so you can start printing documents effectively.</em></p>
-
-<h2 id="how-to-download-cannon-ij-printer-software-from-ijstartcanon">How to Download Cannon IJ Printer Software from ij.start.canon</h2>
-
-<ol>
-  <li>It’s the preferred option cannon team recommends to use as you will receive an updated version;</li>
-  <li>Visit <a href="https://ij-start.github.io/">ij.start.canon</a>.</li>
-  <li>Click on <strong>“Set Up”</strong>.</li>
-  <li>Choose the first letters of your model type and choose the product name.</li>
-  <li>You’re on the Cannon printer drivers downloads page.</li>
-  <li>Click Download and wait to complethe the process.</li>
-</ol>
-
-<h2 id="canon-ij-printer-guide-for-driver-installation">Canon IJ printer Guide for Driver Installation</h2>
-
-<p><em>Follow the below guide and set up your Cannon printer</em></p>
-
-<ol>
-  <li><strong>Download Drivers –</strong> Visit<a href="https://ij-start.github.io/">ij.start.canon</a> and download the Cannon driver.</li>
-  <li><strong>Install and Select connection type –</strong> Double-tap on file and select wireless or USB connection.</li>
-  <li><strong>Turn ON the Cannon printer –</strong> Press the button to turn on the printer.</li>
-  <li><strong>Connect WiFi –</strong> On a wireless connection, press and hold the WiFI alarm to connect.</li>
-  <li><strong>Flashing blue and green lamps –</strong> If you find this situation, it means the printer is connected to WiFi.</li>
-  <li><strong>Agree on the terms to install –</strong> Read and agree to the license terms of Cannon set up in order to install.</li>
-  <li><strong>Finish the Cannon Printer Setup –</strong> Tap on Complete to finish the final step.</li>
-</ol>
-
-
-      <footer class="site-footer">
-        
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
-      </footer>
-    </main>
-  </body>
-<p>&lt;/html&gt;</p>
-
-
-      <footer class="site-footer">
-        
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
-      </footer>
-    </main>
-  </body>
+</body>
 </html>
