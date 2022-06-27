@@ -1,11 +1,8 @@
-
-<!DOCTYPE html>
-<html lang="en-US">
   <head>
     <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>IJ.START.CANON | Setup IJ Start Canon - Canon IJ Printer</title>
+<title>ij.start.canon - download canon setup in june 2022</title>
 <meta name="generator" content="Jekyll v3.9.2" />
 <meta property="og:title" content="IJ.START.CANON" />
 <meta property="og:locale" content="en_US" />
