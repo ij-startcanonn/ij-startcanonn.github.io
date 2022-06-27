@@ -1,62 +1,11 @@
-
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <title>ij.start.canon | download setup in June 2022</title>
-    <meta charset="UTF-8">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<meta name="generator" content="Jekyll v3.9.2" />
-<meta property="og:title" content="ij-startcanonn.github.io" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://ij-startcanonn.github.io/" />
-<meta property="og:url" content="https://ij-startcanonn.github.io/" />
-<meta property="og:site_name" content="ij-startcanonn.github.io" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="ij-startcanonn.github.io" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"ij-startcanonn.github.io","name":"ij-startcanonn.github.io","url":"https://ij-startcanonn.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=32d4102ff0de43350082d53d08cfbee932c008fb">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <header class="page-header" role="banner">
-      <h1 class="project-name">ij.start.canon</h1>
-      <h2 class="project-tagline"></h2>
-      
-      
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      <head>
+<head>
     <meta charset="UTF-8" />
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>ij.start.canon - download canon setup in june 2022</title>
 <meta name="generator" content="Jekyll v3.9.2" />
-<meta property="og:title" content="IJ.START.CANON" />
+<meta property="og:title" content="ij.start.canon" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:description" content="Just visit canon official website - and enter canon printer model number to download, install and setup canon printer drivers." />
 <link rel="canonical" href="https://ij-startcanonn.github.io/" />
 <meta property="og:url" content="https://ij-startcanonn.github.io/" />
 <meta property="og:site_name" content="Setup IJ Start Canon - Canon IJ Printer" />
