@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+    <title>ij.start.canon | download setup in June 2022</title>
     <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>ij.start.canon | download setup in June 2022</title>
 <meta name="generator" content="Jekyll v3.9.2" />
 <meta property="og:title" content="ij-startcanonn.github.io" />
 <meta property="og:locale" content="en_US" />
@@ -41,7 +41,7 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">ij-startcanonn.github.io</h1>
+      <h1 class="project-name">ij.start.canon</h1>
       <h2 class="project-tagline"></h2>
       
       
